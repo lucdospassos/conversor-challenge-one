@@ -1,6 +1,6 @@
 # Programa Conversor de Moedas e Medidas
 
-Apresento o **Programa Conversor de Moedas e Medidas** versão 1.0 desenvolvido em Java. Esse projeto foi um desafio proposto pelo programa <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">ONE - Oracle Next Education</a> da Turma 5 em parceria com a <a href="https://www.alura.com.br/" target="_blank">Alura</a>, para desenvolvemos um conversor de moedas e, como desafio extra, foi proposto agregar outro tipo de conversor, ambos desenvolvidos utilizando a linguagem Java.
+Apresento o **Programa Conversor de Moedas e Medidas** versão 1.0 desenvolvido em Java e Swing para dispositivos desktop. Esse projeto foi um desafio proposto pelo programa <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">ONE - Oracle Next Education</a> da Turma 5 em parceria com a <a href="https://www.alura.com.br/" target="_blank">Alura</a>, para desenvolvemos um conversor de moedas e, como desafio extra, foi proposto agregar outro tipo de conversor, ambos desenvolvidos utilizando a linguagem Java.
 
 Este aplicativo oferece uma solução prática e eficiente para converter diferentes moedas e unidades de medida.
 
