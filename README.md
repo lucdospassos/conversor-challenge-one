@@ -46,7 +46,7 @@ O conversor de Medidas é uma ferramenta versátil que permite a conversão entr
 
 Vale ressaltar que o Programa Conversor de Moedas e Medidas foi desenvolvido como um projeto open source. Isso significa que o código-fonte está disponível para a comunidade, permitindo que outros desenvolvedores possam contribuir, melhorar e customizar o aplicativo de acordo com suas necessidades. O autor Luciano Passos demonstra seu comprometimento com a transparência e colaboração, permitindo que outros interessados aprendam, contribuam e ampliem o projeto.
 
-Você pode encontrar mais detalhes e colaborar com o projeto através do repositório no <a href="https://github.com/lucdospassos" target="_blank">https://github.com/lucdospassos</a>.
+Você pode encontrar mais detalhes e colaborar com o projeto através do repositório no <a href="https://github.com/lucdospassos/conversor-challenge-one" target="_blank">https://github.com/lucdospassos</a>.
 
 Portanto, com o Programa Conversor de Moedas e Medidas, você tem acesso a uma ferramenta completa e de código aberto, que torna suas conversões de moeda e medidas mais fáceis e eficientes. Desfrute dessa solução prática e atualizada para suas necessidades cotidianas!
 
