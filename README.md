@@ -64,26 +64,26 @@ Portanto, com o Programa Conversor de Moedas e Medidas, você tem acesso a uma f
 <table>
   <tr>
     <td>
-      <img src="img/imgConversorMoeda1.png" alt="Conversor de Moeda 1">
+      <img src="bin/img/imgConversorMoeda1.png" alt="Conversor de Moeda 1">
     </td>
     <td>
-      <img src="img/imgConversorMoeda2.png" alt="Conversor de Moeda 2">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="img/imgConversorMoeda3.png" alt="Conversor de Medida 1">
-    </td>
-    <td>
-      <img src="img/imgConversorMoeda4.png" alt="Conversor de Medida 2">
+      <img src="bin/img/imgConversorMoeda2.png" alt="Conversor de Moeda 2">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="img/imgConversorMoeda5.png" alt="Sobre o Programa">
+      <img src="bin/img/imgConversorMoeda3.png" alt="Conversor de Medida 1">
     </td>
     <td>
-      <img src="img/imgConversorMoeda6.png" alt="Conversor de Moeda 1">
+      <img src="bin/img/imgConversorMoeda4.png" alt="Conversor de Medida 2">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="bin/img/imgConversorMoeda5.png" alt="Sobre o Programa">
+    </td>
+    <td>
+      <img src="bin/img/imgConversorMoeda6.png" alt="Conversor de Moeda 1">
     </td>
   </tr>
 </table>
@@ -93,18 +93,18 @@ Portanto, com o Programa Conversor de Moedas e Medidas, você tem acesso a uma f
 <table>
   <tr>
     <td>
-      <img src="img/imgConversorMedidas1.png" alt="Conversor de Moeda 2">
+      <img src="bin/img/imgConversorMedidas1.png" alt="Conversor de Moeda 2">
     </td>
     <td>
-      <img src="img/imgConversorMedidas2.png" alt="Conversor de Medida 1">
+      <img src="bin/img/imgConversorMedidas2.png" alt="Conversor de Medida 1">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="img/imgConversorMedidas3.png" alt="Conversor de Medida 2">
+      <img src="bin/img/imgConversorMedidas3.png" alt="Conversor de Medida 2">
     </td>
     <td>
-      <img src="img/imgConversorMedidas4.png" alt="Conversor de Medida 3">
+      <img src="bin/img/imgConversorMedidas4.png" alt="Conversor de Medida 3">
     </td>
   </tr>
 </table>
