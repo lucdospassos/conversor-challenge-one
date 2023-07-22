@@ -111,7 +111,7 @@ Portanto, com o Programa Conversor de Moedas e Medidas, você tem acesso a uma f
 
 ### Sobre
 
-11. ![Sobre o Programa](img/imgSobre2.png)
+11. ![Sobre o Programa](bin/img/imgSobre2.png)
 
 *Nota: As imagens apresentadas são apenas ilustrativas e podem sofrer alterações nas futuras versões do programa.*
 
